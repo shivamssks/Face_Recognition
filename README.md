@@ -23,16 +23,13 @@ This project implements a face identification system capable of detecting faces 
 ## Installation
 
 1. Clone the repository:
-
 2. Navigate to the project directory:
-
 3. Install the required Python packages:
 
 ## Usage
 
 1. Run the script with the following arguments:
    Replace `<path-to-dataset>`, `<path-to-weight-file>`, and `<path-for-cropped-images>` with the appropriate paths for your setup.
-
 2. The script performs the following steps:
    - Detects faces in the provided dataset.
    - Recognizes the detected faces using the pre-trained model.
